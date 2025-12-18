@@ -1,4 +1,4 @@
 noel-cua-Hon/
-├── README.md   👈 đây
+├── README.md  
 ├── index.html
 ├── images/
