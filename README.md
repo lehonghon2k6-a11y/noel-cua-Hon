@@ -1,7 +1,5 @@
-# noel-cua-Honecho "# noel-cua-Hon" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/lehonghon2k6-a11y/noel-cua-Hon.git
-git push -u origin mai
+git remote add origin [URL_repositpry_GitHub]
+git add .
+git commit -m "Mo ta commit cua ban"
+git push -u origin ten_nhanh_cua_ban
